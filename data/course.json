@@ -1,0 +1,43 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Oceanography"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "62ce5249-fee9-d425-0d77-765502ec1f24"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Paleoceanography",
+  "course_description": "This class examines tools, data, and ideas related to past climate changes as seen in marine, ice core, and continental records. The most recent climate changes (mainly the past 500,000 years, ranging up to about 2 million years ago) will be emphasized. Quantitative tools for the examination of paleoceanographic data will be introduced (statistics, factor analysis, time series analysis, simple climatology).\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.740",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
